@@ -1,14 +1,14 @@
 //
-//  PHTextViewDemoUITests.swift
-//  PHTextViewDemoUITests
+//  FiveStarsDemoUITests.swift
+//  FiveStarsDemoUITests
 //
-//  Created by Public on 2018/8/28.
+//  Created by Public on 2018/8/30.
 //  Copyright © 2018年 Public. All rights reserved.
 //
 
 import XCTest
 
-class PHTextViewDemoUITests: XCTestCase {
+class FiveStarsDemoUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

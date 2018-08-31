@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  PHTextViewDemo
+//  FiveStarsDemo
 //
-//  Created by Public on 2018/8/28.
+//  Created by Public on 2018/8/30.
 //  Copyright © 2018年 Public. All rights reserved.
 //
 
